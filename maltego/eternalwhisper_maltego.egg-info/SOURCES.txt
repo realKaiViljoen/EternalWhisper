@@ -1,0 +1,7 @@
+setup.py
+eternalwhisper_maltego.egg-info/PKG-INFO
+eternalwhisper_maltego.egg-info/SOURCES.txt
+eternalwhisper_maltego.egg-info/dependency_links.txt
+eternalwhisper_maltego.egg-info/entry_points.txt
+eternalwhisper_maltego.egg-info/requires.txt
+eternalwhisper_maltego.egg-info/top_level.txt
